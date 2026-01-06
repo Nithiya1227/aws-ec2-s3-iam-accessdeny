@@ -127,6 +127,14 @@ This ensures the user can manage resources but **cannot destroy them**.
 
 ---
 
+## Screenshots
+![Architecture](architecture-iam.png)
+![IAM Permissions](screenshots/iam-permissions.png)
+![EC2 AccessDenied](screenshots/ec2-terminate-accessdenied.png)
+![S3 AccessDenied](screenshots/s3-delete-accessdenied.png)
+
+---
+
 ## 🧾 Project Summary
 
 This project showcases the implementation of AWS IAM least privilege access by allowing only essential EC2 operations while explicitly denying destructive actions across EC2 and S3. All permissions were tested and validated using real AWS resources.
