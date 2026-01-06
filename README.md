@@ -1,4 +1,4 @@
-# Mini Project 7: Custom IAM Policy – Least Privilege Access Control
+# Mini Project 8: Custom IAM Policy – Least Privilege Access Control
 
 ## 📌 Project Title
 
